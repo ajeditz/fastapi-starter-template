@@ -5,10 +5,11 @@
 ## 🔧 Setup
 
 ```bash
-./setup.sh
-
 ### To make it executable
 chmod +x setup.sh
+
+./setup.sh
+
 ```
 
 ## To set up the project manually 
