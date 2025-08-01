@@ -8,7 +8,7 @@
 ### To make it executable
 chmod +x setup.sh
 
-./setup.sh
+source setup.sh
 
 ```
 
